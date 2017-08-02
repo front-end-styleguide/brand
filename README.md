@@ -4,6 +4,10 @@
 
 Both mark and logo are set in [Maven Pro Medium](https://fonts.google.com/specimen/Maven+Pro). If possible the main brand color should be used, otherwise pure white or a shade of gray. Black almost never looks good, but if it serves your purpose go for it.
 
+<img alt="Mark" src="https://cdn.rawgit.com/front-end-styleguide/brand/master/mark/mark.svg" width="100">
+
+<img alt="Logo" src="https://cdn.rawgit.com/front-end-styleguide/brand/master/logo/logo.svg" width="400">
+
 ## Colors
 
 ```css
@@ -12,8 +16,6 @@ Both mark and logo are set in [Maven Pro Medium](https://fonts.google.com/specim
   --brand-rgb: rgb(29, 80, 151);
 }
 ```
-
-<div style="width:100px;height:100px;background:#1d5097;border-radius:20%"></div>
 
 ## License
 
