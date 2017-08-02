@@ -1,4 +1,4 @@
-# <img alt="" src="https://cdn.rawgit.com/front-end-styleguide/brand/master/mark/mark.svg" width="30"> Brand Guidelines for Front End Styleguide
+# <img alt="" src="https://cdn.rawgit.com/front-end-styleguide/brand/master/mark/mark.svg" width="24"> Brand Guidelines for Front End Styleguide
 
 ## Mark and Logo
 
