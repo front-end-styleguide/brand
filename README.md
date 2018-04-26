@@ -1,22 +1,24 @@
-# <img alt="" src="https://cdn.rawgit.com/front-end-styleguide/brand/master/mark/mark.svg" width="24"> Brand Guidelines for Front End Styleguide
+# <img alt="Icon" height="24 src="https://cdn.rawgit.com/pangolinjs/brand/master/icon/icon.svg" width="24"> Brand guidelines for Pangolin
 
-## Mark and Logo
+## Logo
 
-Both mark and logo are set in [Maven Pro Medium](https://fonts.google.com/specimen/Maven+Pro). If possible the main brand color should be used, otherwise pure white or a shade of gray. Black almost never looks good, but if it serves your purpose go for it.
+There will be some sort of logo — in the (very near) future™.
 
-<img alt="Mark" src="https://cdn.rawgit.com/front-end-styleguide/brand/master/mark/mark.svg" width="100">
+## Icon
 
-<img alt="Logo" src="https://cdn.rawgit.com/front-end-styleguide/brand/master/logo/logo.svg" width="400">
+<img alt="Icon" src="https://cdn.rawgit.com/pangolinjs/brand/master/icon/icon.svg" width="100">
 
 ## Colors
 
 ```css
 :root {
-  --brand-hex: #1d5097;
-  --brand-rgb: rgb(29, 80, 151);
+  --brand-shade-lightest: #ffa26b;
+  --brand-shade-light: #ff721f;
+  --brand-shade-medium: #cc5b18;
+  --brand-shade-dark: #7f390f;
 }
 ```
 
 ## License
 
-Front End Styleguide mark and logo by Fynn Becker are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Pangolin artwork by Fynn Becker is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
