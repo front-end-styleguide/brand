@@ -1,12 +1,8 @@
-# <img alt="Icon" height="24" src="https://cdn.rawgit.com/pangolinjs/brand/master/icon/icon.svg" width="24"> Brand guidelines for Pangolin
-
-## Logo
-
-There will be some sort of logo — in the (very near) future™.
+# <img alt="" src="https://cdn.jsdelivr.net/gh/pangolinjs/brand/icon/icon.svg" width="24"> Pangolin.js Brand Guidelines
 
 ## Icon
 
-<img alt="Icon" height="100" src="https://cdn.rawgit.com/pangolinjs/brand/master/icon/icon.svg" width="100">
+<img alt="Icon" height="100" src="https://cdn.jsdelivr.net/gh/pangolinjs/brand/icon/icon.svg" width="100">
 
 ## Colors
 
