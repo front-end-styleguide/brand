@@ -1,8 +1,8 @@
-# <img alt="" src="https://cdn.jsdelivr.net/gh/pangolinjs/brand/icon/icon.svg" width="24"> Pangolin.js Brand Guidelines
+# <img alt="" src="https://cdn.jsdelivr.net/gh/pangolinjs/brand@main/icon/icon.svg" width="24"> Pangolin.js Brand Guidelines
 
 ## Icon
 
-<img alt="Icon" height="100" src="https://cdn.jsdelivr.net/gh/pangolinjs/brand/icon/icon.svg" width="100">
+<img alt="Icon" height="100" src="https://cdn.jsdelivr.net/gh/pangolinjs/brand@main/icon/icon.svg" width="100">
 
 ## Colors
 
